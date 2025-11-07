@@ -70,6 +70,6 @@ Overall space compleixty of the program is **O(n)** where n is the number of stu
 ## Student Details
 - **Name** : Sidharth Krishna S
 - **RollNo** : 2401720003
-- **Course** -> BSc Computer Science
-- **Semetser** -> 3rd Semester
-- **Assignment** -> Data Structures Theory Assignment 3
+- **Course** : BSc Computer Science
+- **Semetser** : 3rd Semester
+- **Assignment** : Data Structures Theory Assignment 3
