@@ -25,7 +25,7 @@ data structures and algorithms to address real-world student result management s
 - **searchByRollNumber()** -> Performs binary search to retrieve student details.
 - **sortByMarks()** -> Performs heap sort to sort students according to marks.
 - **sortByRollNumber()** -> Performs radix sort to sort students according to roll numbers.
-- **compareSortingPerformance()** -> Displays time and space complexity of sorting and seraching algorithms.
+- **compareSortingPerformance()** -> Displays time and space complexity of sorting and searching algorithms.
 - **displayChoice()** -> Presents a menu-driven interface for user interaction.
 
 ## Code Explanation
