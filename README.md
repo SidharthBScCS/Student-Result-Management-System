@@ -24,7 +24,7 @@ data structures and algorithms to address real-world student result management s
 - **addStudentRecord()** -> Adds a new student record to the hash table.
 - **searchByRollNumber()** -> Performs binary search to retrieve student details.
 - **sortByMarks()** -> Performs heap sort to sort students according to marks.
-- ** sortByRollNumber()** -> Performs radix sort to sort students according to roll numbers.
+- **sortByRollNumber()** -> Performs radix sort to sort students according to roll numbers.
 - **compareSortingPerformance()** -> Displays time and space complexity of sorting and seraching algorithms.
 - **displayChoice()** -> Presents a menu-driven interface for user interaction.
 
@@ -65,7 +65,7 @@ Overall space compleixty of the program is **O(n)** where n is the number of stu
 <img width="565" height="194" alt="4" src="https://github.com/user-attachments/assets/3c65e18d-0464-4264-9885-fc01d5475c6b" />
 <img width="571" height="312" alt="5" src="https://github.com/user-attachments/assets/ea2b072d-2ebb-48c9-b903-1b577a45ff86" />
 
-## C++ Code File -> https://github.com/SidharthBScCS/Student-Result-Management-System/blob/main/StudentResultManagementSystem.cpp
+- C++ Code File -> https://github.com/SidharthBScCS/Student-Result-Management-System/blob/main/StudentResultManagementSystem.cpp
 
 ## Student Details
 - **Name** : Sidharth Krishna S
